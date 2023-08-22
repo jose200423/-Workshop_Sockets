@@ -61,12 +61,6 @@ public class ClientU extends Thread {
 		}
 	}
 	
-	 public static void main(String args[]) 
-	    { 
-	    	//Servidor server = new Servidor(5001); 
-	    	ClientU client = new ClientU("192.168.10.6", 8000); 
-	    	client.start();
-	    	
-	    } 
+	  
 
 }
