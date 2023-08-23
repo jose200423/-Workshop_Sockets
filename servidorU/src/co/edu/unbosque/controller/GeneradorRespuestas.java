@@ -1,4 +1,4 @@
-package serverBs;
+package co.edu.unbosque.controller;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -12,7 +12,7 @@ public class GeneradorRespuestas {
 
 	public GeneradorRespuestas() {
 		respuestasss = new HashMap<>();
-		Respuestas("src/serverBs/respuestas.txt");
+		Respuestas("src/co/edu/unbosque/controller/respuestas.txt");
 	}
 	public void Respuestas(String ruta) {
 		try {

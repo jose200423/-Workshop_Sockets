@@ -1,4 +1,4 @@
-package serverBs;
+package co.edu.unbosque.controller;
 
 import java.io.BufferedInputStream;
 import java.io.DataInputStream;
