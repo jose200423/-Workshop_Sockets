@@ -79,7 +79,7 @@ public class Servidor extends Thread {
 
 	public static void main(String args[]) {
 
-		Servidor server = new Servidor(5000);
+		Servidor server = new Servidor(8000);
 		server.start();
 	}
 
