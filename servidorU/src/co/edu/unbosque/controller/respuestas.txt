@@ -1,6 +1,6 @@
 hola:¡Hola! ¿En que puedo ayudarte hoy?
 menu:Por supuesto, aqui esta nuestro menu= sopa, calentado de frijoles y postre de maracuya
-recomendacion:Claro, te recomiendo probar el ajiaco con mazorca.
+recomendacion:claro, te recomiendo probar el ajiaco con mazorca.
 vegetariano:Tenemos una variedad de opciones vegetarianas en nuestro menu.
 reservacion:Puedes hacer una reservacion llamando al 111111111.
 horario:Nuestro horario de atencion es de 10.00 a.m. a 9.00 p.m.

@@ -65,6 +65,11 @@ public class Servidor extends Thread {
 		}
 
 	}
+	public static void main(String args[]) {
+
+		Servidor server = new Servidor(8000);
+		server.start();
+	}
 	public void enviarRespuesta(Socket sk, String respuesta) {
 		try {
 			DataOutputStream salida = new DataOutputStream(sk.getOutputStream());
@@ -77,10 +82,6 @@ public class Servidor extends Thread {
 
 	}
 
-	public static void main(String args[]) {
-
-		Servidor server = new Servidor(8000);
-		server.start();
-	}
+	
 
 }
