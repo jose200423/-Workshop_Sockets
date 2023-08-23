@@ -1,0 +1,21 @@
+hola:¡Hola! ¿En que puedo ayudarte hoy?
+menu:Por supuesto, aqui esta nuestro menu= sopa, calentado de frijoles y postre de maracuya
+recomendacion:claro, te recomiendo probar el ajiaco con mazorca.
+vegetariano:Tenemos una variedad de opciones vegetarianas en nuestro menu.
+reservacion:Puedes hacer una reservacion llamando al 111111111.
+horario:Nuestro horario de atencion es de 10.00 a.m. a 9.00 p.m.
+promociones:Actualmente tenemos las siguientes promociones= ejecutivo a $15.000.
+ubicacion:Estamos ubicados en nuestro local. 
+contacto:Puedes contactarnos al correo electronico correo.restaurante@comida.com o llamando al 111111111.
+especial:Eventos especiales los viernes: musica en vivo y descuentos en tragos.
+bebidas:Nuestra seleccion de bebidas incluye cocteles, vinos y cervezas artesanales.
+tomar:Nuestra seleccion de bebidas incluye cocteles, vinos y cervezas artesanales.
+postres:Nuestros postres caseros son el helado de vainilla y maracuya o torta de tres leches.
+reservacion online:Puedes hacer una reservacion en linea en nuestro sitio web succionameloonline.com.
+precio:Los precios de nuestros platos varian. Consulta el menu para obtener detalles.
+favoritoMi plato favorito personal es pizza huawiana. ¡Te encantara!
+ninos:Tambien tenemos opciones para ninos, como menu infantil y juegos.
+celebraciones:Celebra ocasiones especiales con nosotros. Ofrecemos servicios de eventos.
+domicilio:Ofrecemos servicio a domicilio en un radio de 15km.
+musica:Disfruta de musica en vivo los sabados por la noche.
+calificacion : !Tenemos 5 estrellas, ven a conocernos!
